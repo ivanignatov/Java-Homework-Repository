@@ -2,6 +2,8 @@
  * Created by John on 22-Mar-16.
  */
 
+
+
 package javaSyntaxix;
 import java.util.Scanner;
 public class Problem1RectangleArea {
